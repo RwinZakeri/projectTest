@@ -1,0 +1,18 @@
+.navBar{
+    width: 100vw;
+    height: 50px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2px 5px 2px 60px;
+}
+
+.navBar ul {
+    display: flex;
+    padding: 2px 5px 2px 60px;
+}
+
+.navBar li {
+    margin: 15px;
+}
